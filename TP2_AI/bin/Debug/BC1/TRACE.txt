@@ -1,0 +1,16 @@
+Deducting rules : 1
+Verifying rule number 11's premises
+Deducting rules : 2
+Verifying rule number 15's premises
+before adding a new fact
+plumes|False|| vole|True|| nage|False|| noir_et_blanc|False|| mange_herbe|False|| 
+Added new fact: oiseau nagetion: False
+
+new facts base
+plumes|False|| vole|True|| nage|False|| noir_et_blanc|False|| mange_herbe|False|| oiseau|False|| 
+before adding a new fact
+plumes|False|| vole|True|| nage|False|| noir_et_blanc|False|| mange_herbe|False|| oiseau|False|| 
+Added new fact: pingouin nagetion: False
+
+new facts base
+plumes|False|| vole|True|| nage|False|| noir_et_blanc|False|| mange_herbe|False|| oiseau|False|| pingouin|False|| 

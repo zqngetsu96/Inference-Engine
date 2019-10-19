@@ -1,0 +1,15 @@
+r1:si phanerogame,graine_nue>sapin,ombre
+r2:si fleur,graine>phanerogame
+r3:si phanerogame,1cotyledone>monocotyledone
+r4:si phanerogame,2cotyledone>dicotyledone
+r5:si monocotyledone,rhizome>muguet
+r6:si dicotyledone>anemone
+r7:si joli>non rhizome
+r8:si monocotyledone,non rhizome>lilas
+r9:si feuille,non fleur>cryptogame
+r10:si cryptogame,non racine>mousse
+r11:si cryptogame,racine>fougère
+r12:si non feuille,plante>thallophyte
+r13:si thallophyte,chlorophylle>algue
+r14:si thallophyte,non chlorophylle>champignon,non comestible
+r15:si non feuille,non fleur,non plante>colibacille

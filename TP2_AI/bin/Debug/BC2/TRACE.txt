@@ -1,0 +1,7 @@
+2 | 
+[fleur Négation: False] [graine Négation: False] [2cotyledone Négation: False] [phanerogame Négation: False] 
+4 | 
+[fleur Négation: False] [graine Négation: False] [2cotyledone Négation: False] [phanerogame Négation: False] [dicotyledone Négation: False] 
+6 | 
+[fleur Négation: False] [graine Négation: False] [2cotyledone Négation: False] [phanerogame Négation: False] [dicotyledone Négation: False] [anemone Négation: False] 
+Deduction des faits términée

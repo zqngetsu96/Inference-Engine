@@ -1,0 +1,14 @@
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\TP2_AI.exe.config
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\TP2_AI.exe
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\TP2_AI.pdb
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.csprojAssemblyReference.cache
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.Properties.Resources.resources
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.csproj.GenerateResource.cache
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.csproj.CoreCompileInputs.cache
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.exe
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.pdb
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\MetroFramework.dll
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.Form1.resources
+C:\Users\ZqngetSu\source\repos\TP2_AI\TP2_AI\obj\Debug\TP2_AI.csproj.CopyComplete

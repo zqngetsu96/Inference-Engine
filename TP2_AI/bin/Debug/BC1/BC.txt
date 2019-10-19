@@ -1,0 +1,18 @@
+r1:si mange_viande>carnivore
+r2:si dents_pointues,griffes,yeux_avant>carnivore 
+r3:si mange_herbe>non carnivore
+r4:si mammifere,sabots>ongule 
+r5:si mammifere,rumine>ongule
+r6:si mammifere,carnivore,brun,taches>guepard
+r7:si mammifere,carnivore,brun,raies>tigre
+r8:si ongule,long_cou,longues_pattes,taches>girafe
+r9:si ongule,raies>zebre
+r10:si oiseau,long_cou,longues_pattes,noir_et_blanc,non vole>autruche
+r11:si oiseau,nage,noir_et_blanc,non vole>pingouin
+r12:si oiseau,vole>albatros 
+r13:si poils>mammifere 
+r14:si lait>mammifere 
+r15:si plumes>oiseau
+r16:si vole,pond_oeufs>oiseau
+
+
